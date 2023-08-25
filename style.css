@@ -1,0 +1,35 @@
+*{
+    --main-color: #1f2937;
+    --secondary-color: #e5e7eb;
+    --main-text-color: #f9faf8;
+    --link-text-color: #e5e7eb;
+    --header-text-color: #1f2937;
+    --button-color: #3882f6;
+
+   
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* border: 2px solid red; */
+}
+
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+/* 
+.intro-section-bg{
+    background-color: var(--main-color);
+}
+
+.intro-section-text {
+    color: var(--main-text-color);
+    font-size: 48px;
+} */
