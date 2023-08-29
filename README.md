@@ -1,4 +1,7 @@
 # Landing Page Project
 
+### author: Chrisdesigns
 
-## Started with writing basic html mark-up for the Landing Page Project
+#### Bytetrust is a financial company that secures and grow you financially through its
+
+#### well strategics plans and investments on the financial market
